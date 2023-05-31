@@ -1,3 +1,7 @@
+NOTE: This is my fork for Gtk port PoC of Atari800 emulator.
+
+Original README:
+
 Atari800 emulator version 5.0.0
 -------------------------------
 
